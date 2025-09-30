@@ -1,4 +1,4 @@
-# Hi — I’m Akash Naidu 👋  
+# Hi — I’m Akash  👋  
 *Trainer · Security Researcher · Creator of hacking tools for learning & labs*
 
 Welcome to my GitHub — this is where I share the hacking & security tools I create, along with scripts, labs, and research material.  
